@@ -1,0 +1,4 @@
+git rm -r --cached nomes_cpf.xlsx
+git rm -r --cached arquivos/
+git rm -r --cached alterados/
+git rm -r --cached log_nomes_nao_encontrados.xlsx
